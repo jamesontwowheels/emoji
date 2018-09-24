@@ -1,0 +1,21 @@
+#emoji-out {
+    max-width:95%;
+    overflow-x: hidden;
+    font-size: 3em;
+}
+
+.feedback_box {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    margin:15px;
+    padding: 15px;
+}
+
+.qzone {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    margin:15px;
+    padding: 15px;
+}
+
+.emoji-out {
+    padding:5px;
+}
